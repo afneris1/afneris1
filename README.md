@@ -3,8 +3,8 @@ Olá ! Meu nome é Afonso Neris
 
 <div align="center">
   <a href="https://github.com/afneris1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afneris1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afneris1&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afneris1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afneris1&layout=compact"/>
 </div>
  
   <div align="center"> 
