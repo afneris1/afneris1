@@ -1,10 +1,10 @@
 Olá ! Meu nome é Afonso Neris
 
-
+![Snake animation](https://github.com/afneris1/afneris1/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/afneris1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afneris1"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afneris1&layout=compact"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=afneris1"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afneris1&layout=compact"/>
 </div>
  
   <div align="center"> 
@@ -14,4 +14,5 @@ Olá ! Meu nome é Afonso Neris
   <a href="https://www.linkedin.com/in/afonsoneris/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-![Snake animation](https://github.com/afneris1/afneris1/blob/output/github-contribution-grid-snake.svg)
+
+
